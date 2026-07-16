@@ -3,7 +3,7 @@ from detector import TemplateDetector
 import os
 
 st.set_page_config(
-    page_title="Outdated Template Detector",
+    page_title="Template Detector",
     page_icon="📄",
     layout="centered"
 )
