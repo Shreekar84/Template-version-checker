@@ -8,7 +8,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📄 Outdated Template Detector")
+st.title("📄Template Checker ")
 
 st.write(
     "Upload a Word (.docx) or PDF document to check "
